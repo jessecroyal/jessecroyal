@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi! My name is Jesse Royal.
 
+* I'm currently a student at Clemson University pursuing a BS in Computer Science
 <!--
 **jessecroyal/jessecroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
